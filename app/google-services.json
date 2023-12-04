@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "541884869305",
+    "firebase_url": "https://thesis-1bed4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thesis-1bed4",
+    "storage_bucket": "thesis-1bed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541884869305:android:856ad0748e24a0e2d4c968",
+        "android_client_info": {
+          "package_name": "com.example.thesis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzF6xmeKRZESFhPXnJ5RELr8N-EuWWo-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
