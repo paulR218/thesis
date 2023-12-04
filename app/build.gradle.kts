@@ -60,4 +60,12 @@ dependencies {
     implementation("com.google.firebase:firebase-auth")
 
     implementation("com.google.android.gms:play-services-location:21.0.1")
+
+    // Full GeoFire library for Realtime Database users
+    implementation ("com.firebase:geofire-android:3.2.0")
+
+    // GeoFire utililty functions for Cloud Firestore users who
+    // want to implement their own geo solution, see:
+    // https://firebase.google.com/docs/firestore/solutions/geoqueries
+    implementation ("com.firebase:geofire-android-common:3.2.0")
 }

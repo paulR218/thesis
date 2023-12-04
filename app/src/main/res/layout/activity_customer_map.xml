@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DriverMapActivity"
+    tools:context=".CustomerLoginActivity"
     >
     <Button
         android:layout_width="wrap_content"
@@ -17,6 +17,12 @@
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-         />
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/request"
+        android:text="@string/book"
+        android:layout_gravity="bottom"/>
 </FrameLayout>
 

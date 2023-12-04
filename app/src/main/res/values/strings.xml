@@ -5,4 +5,6 @@
     <string name="login">login</string>
     <string name="register">register</string>
     <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="logout">logout</string>
+    <string name="book">Book</string>
 </resources>
